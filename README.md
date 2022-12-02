@@ -4,7 +4,7 @@ Olá, me chamo **Rafael Muniz**, sou de São Luís - MA, Brasil, formado em Admi
 
 ## Meus interesses pessoais:
 
-- 💻 Gosto de raciocínio lógico e tudo que possa ser explicado de forma prática. Aprendi a gostar de programação e sigo estudando e me aprimoando cada vez mais nessa área maravilhosa; 
+- 💻 Gosto de raciocínio lógico e tudo que possa ser explicado de forma prática. Aprendi a gostar de programação e sigo estudando e me aprimorando cada vez mais nessa área maravilhosa; 
 - 🕹️ Meus hobbies são jogos que envolvam estratégia, músicas e animes;
 
 ## Linguagens e ferramentas:  
