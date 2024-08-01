@@ -10,7 +10,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/JAVASCRIPT-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-282C34?logo=python&logoColor=1572B6" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/PYTHON-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/TYPESCRIPT-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
