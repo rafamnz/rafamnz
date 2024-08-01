@@ -20,7 +20,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/NODE.JS-282C34?logo=node.js&logoColor=43853D" alt="Node logo" title="Node" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=1572B6" alt="Docker logo" title="Docker" height="25" />
+  <img src="https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=1D63ED" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=005C84" alt="MySQL logo" title="MySQL" height="25" />
 </p>
