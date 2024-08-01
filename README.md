@@ -33,14 +33,22 @@
 <table>
 <tr><td>
 
-  <a href="https://github.com/rafamnz/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafamnz&show_icons=true&theme=blue-green" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=rafamnz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
   </a>
 
 </td><td>
 
-  <a href="https://github.com/rafamnz/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamnz&layout=compact&theme=blue-green" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafamnz&layout=compact&theme=radical"
+    />
   </a>
 
 </td></tr>
