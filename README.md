@@ -16,9 +16,9 @@
 &nbsp;
   <img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Vue3-282C34?logo=vue3&logoColor=1572B6" alt="Vue3 logo" title="Vue3" height="25" />
+  <img src="https://img.shields.io/badge/Vue-282C34?logo=vue&logoColor=1572B6" alt="Vue logo" title="Vue" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Nodejs-282C34?logo=nodejs&logoColor=1572B6" alt="Nodejs logo" title="Nodejs" height="25" />
+  <img src="https://img.shields.io/badge/Node-282C34?logo=node&logoColor=1572B6" alt="Node logo" title="Node" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=1572B6" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
