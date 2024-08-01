@@ -23,13 +23,13 @@
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=1D63ED" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=005C84" alt="MySQL logo" title="MySQL" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=1D63ED" alt="Express logo" title="Express" height="25" />
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" alt="Express logo" title="Express" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=1D63ED" alt="Sequelize logo" title="Sequelize" height="25" />
+  <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=52B0E7" alt="Sequelize logo" title="Sequelize" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=1D63ED" alt="Git logo" title="Git" height="25" />
+  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=white" alt="Git logo" title="Git" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=1D63ED" alt="Linux logo" title="Linux" height="25" />
+  <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" />
 </p>
 
 ## Minhas redes
