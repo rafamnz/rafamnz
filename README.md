@@ -4,9 +4,9 @@
 
 ## Ferramentas e tecnologias:
 <p>
-  <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML5" height="25" />
+  <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML logo" title="HTML" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS3" height="25" />
+  <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS logo" title="CSS" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
@@ -14,15 +14,17 @@
 &nbsp;
   <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React Native" height="25" />
+  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue" height="25" />
+  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" alt="Node.js logo" title="Node" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=1D63ED" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=005C84" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=1D63ED" alt="Express logo" title="Express" height="25" />
+&nbsp;
 </p>
 
 ## Minhas redes
