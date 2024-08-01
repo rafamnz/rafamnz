@@ -8,21 +8,21 @@
 &nbsp;
   <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6" alt="Python logo" title="Python" height="25" />
+  <img src="https://img.shields.io/badge/PYTHON-282C34?logo=python&logoColor=1572B6" alt="Python logo" title="Python" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+  <img src="https://img.shields.io/badge/REACT-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />
+  <img src="https://img.shields.io/badge/VUE-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Node-282C34?logo=node&logoColor=1572B6" alt="Node logo" title="Node" height="25" />
+  <img src="https://img.shields.io/badge/NODE.JS-282C34?logo=node.js&logoColor=1572B6" alt="Node logo" title="Node" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=1572B6" alt="Docker logo" title="Docker" height="25" />
+  <img src="https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=1572B6" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=1572B6" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=1572B6" alt="MySQL logo" title="MySQL" height="25" />
 </p>
 
 ## Minhas redes
