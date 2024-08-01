@@ -16,7 +16,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&logoColor=1572B6" alt="Vue logo" title="Vue" height="25" />
+  <img src="https://img.shields.io/badge/Vue-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue logo" title="Vue" height="25" />
 &nbsp;
   <img src="https://img.shields.io/badge/Node-282C34?logo=node&logoColor=1572B6" alt="Node logo" title="Node" height="25" />
 &nbsp;
