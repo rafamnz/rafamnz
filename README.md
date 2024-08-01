@@ -1,30 +1,30 @@
-## Sobre mim
+<h1 align="center">Olá, eu sou o Rafael Muniz. Muito prazer!</h1>
 
-Olá, me chamo **Rafael Muniz**, sou de São Luís - MA, Brasil, formado em Administração pela UEMA e pós-graduado em Auditoria,Controladoria e Finanças pela FAENE. No momento, estou em processo de transição de carreira para a área de tecnologia, e faço o curso de Desenvolvimento Web pela Trybe.
+###
 
-## Meus interesses pessoais:
-
-- 💻 Gosto de raciocínio lógico e tudo que possa ser explicado de forma prática. Aprendi a gostar de programação e sigo estudando e me aprimorando cada vez mais nessa área maravilhosa; 
-- 🕹️ Meus hobbies são jogos que envolvam estratégia, músicas e animes;
-
-## Linguagens e ferramentas:  
+## Ferramentas e tecnologias:
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://testing-library.com/img/octopus-128x128.png" alt="rtl" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<!--   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="40" height="40"/>
-  <img src="https://sinonjs.org/assets/images/logo.png" alt="sinon" width="40" height="40"/>
+  [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=1572B6" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/Vue3-282C34?logo=vue3&logoColor=1572B6" alt="Vue3 logo" title="Vue3" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/Nodejs-282C34?logo=nodejs&logoColor=1572B6" alt="Nodejs logo" title="Nodejs" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=1572B6" alt="Docker logo" title="Docker" height="25" />][tech_tools_anchor]
+&nbsp;
+  [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=1572B6" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
+&nbsp;
 </p>
 
 <p>
@@ -35,12 +35,7 @@ Olá, me chamo **Rafael Muniz**, sou de São Luís - MA, Brasil, formado em Admi
 
 ## Minhas redes
 
-<a href="https://github.com/rafamnz" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/rafaelmnz/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/rafaelmnz/)
 
 ## GitHub Stats
 <table>
