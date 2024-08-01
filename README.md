@@ -22,7 +22,7 @@
 &nbsp;
   <img src="https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=1572B6" alt="Docker logo" title="Docker" height="25" />
 &nbsp;
-  <img src="https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=1572B6" alt="MySQL logo" title="MySQL" height="25" />
+  <img src="https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=005C84" alt="MySQL logo" title="MySQL" height="25" />
 </p>
 
 ## Minhas redes
