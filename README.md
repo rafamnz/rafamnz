@@ -16,7 +16,7 @@ Desenvolvedor Full Stack
 
 ## Sobre
 
-Atualmente atuando como desenvolvedor front-end, com foco em interfaces responsivas, componentes reutilizáveis e integração com APIs. Interesse contínuo por boas práticas, arquitetura limpa e performance.
+Atualmente atuando como desenvolvedor front-end, com foco em interfaces responsivas, componentes reutilizáveis e integração com APIs. Interesse contínuo por boas práticas e arquitetura limpa.
 
 ---
 
