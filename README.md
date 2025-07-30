@@ -1,7 +1,5 @@
 <h1 align="center">Rafael Muniz</h1>
 
----
-
 ## 🛠 Tecnologias e Ferramentas
 
 <p align="left">
