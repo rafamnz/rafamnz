@@ -33,9 +33,3 @@ Atualmente atuando como desenvolvedor front-end, com foco em interfaces responsi
 ## Contato
 
 - [LinkedIn: rafaelmnz](https://www.linkedin.com/in/rafaelmnz/)
-
----
-
-## Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafamnz&count_private=true&show_icons=true&hide=issues&theme=default)
