@@ -33,5 +33,3 @@ Atualmente atuando como desenvolvedor front-end, com foco em interfaces responsi
 ## Contato
 
 - [LinkedIn: rafaelmnz](https://www.linkedin.com/in/rafaelmnz/)
-
-![activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafamnz&theme=github)
