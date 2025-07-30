@@ -1,50 +1,71 @@
-<h1 align="center">Rafael Muniz</h1>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+</div>
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafaelmnz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rafamnz.rafamnz" />
+</div>
+
+###
+
+<h1 align="center">Olá, sou Rafael Muniz 👋</h1>
+
+###
+
+<h3 align="left">👨‍💻 Sobre mim</h3>
+
+<p align="left">
+Desenvolvedor Full Stack.<br><br>
+- 🔭 Atualmente atuando como Front End.<br>
+- 📚 Em constante aprimoramento em arquitetura de software, testes automatizados e DevOps.<br>
+- ⚙️ Possuo conhecimento prático em projetos com Javascript, Vue.js, Node.js, Vite, Bootstrap entre outros.<br>
+</p>
+
+###
+
+<h3 align="left">🛠 Tecnologias e ferramentas</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+</div>
+
+###
+
+<h3 align="left">📈 Estatísticas do GitHub</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafamnz&count_private=true&show_icons=true&hide=issues&theme=default&custom_title=GitHub%20Stats" height="160" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rafamnz&theme=default&hide_border=false&border_radius=5" height="180" alt="GitHub Streak" />
+</div>
+
+###
+
+<!-- Rodapé opcional -->
 <p align="center">
-Desenvolvedor Full Stack com experiência em soluções web modernas, utilizando tecnologias robustas e escaláveis para atender às necessidades de negócios.  
-Atuo no desenvolvimento de aplicações eficientes, com foco em qualidade, performance e boas práticas de engenharia de software.
+  Desenvolvido por Rafael Muniz • Obrigado por visitar meu perfil! 🚀
 </p>
-
----
-
-## 🛠 Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" height="25" />
-  <img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" height="25" />
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" height="25" />
-  <img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=ffdd54" height="25" />
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" height="25" />
-  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=4FC08D" height="25" />
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Sequelize-282C34?logo=sequelize&logoColor=52B0E7" height="25" />
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=005C84" height="25" />
-  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=1D63ED" height="25" />
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=white" height="25" />
-  <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" height="25" />
-</p>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rafamnz&count_private=true&show_icons=true&custom_title=Estatísticas%20do%20GitHub&hide=issues&theme=default"
-    height="160"
-    alt="Estatísticas do GitHub"
-  />
-</p>
-
----
-
-## 📫 Contato
-
-Para propostas profissionais, parcerias ou dúvidas técnicas, sinta-se à vontade para entrar em contato:
-
-- [LinkedIn](https://www.linkedin.com/in/rafaelmnz/)
-
----
-
