@@ -33,7 +33,6 @@ Atualmente atuando como desenvolvedor front-end, com foco em interfaces responsi
 ## Contato
 
 - [LinkedIn: rafaelmnz](https://www.linkedin.com/in/rafaelmnz/)
-- Email disponível mediante solicitação
 
 ---
 
