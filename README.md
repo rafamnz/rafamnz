@@ -1,10 +1,10 @@
 # Rafael Muniz
 
-Desenvolvedor Full Stack
+Frontend Developer | Web Applications
 
 ---
 
-## Tecnologias
+## Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="25" alt="HTML" />
@@ -24,12 +24,12 @@ Desenvolvedor Full Stack
 
 ---
 
-## Sobre
+## About
 
-Atualmente atuando como desenvolvedor front-end, com foco em interfaces responsivas, componentes reutilizáveis e integração com APIs. Interesse contínuo por boas práticas e arquitetura limpa.
+Frontend Developer working on web-based administrative systems with a strong focus on usability, reusable components, and API integration. Background in business processes, with continuous interest in clean architecture, best practices, and scalable frontend solutions.
 
 ---
 
-## Contato
+## Contact
 
 - [LinkedIn: rafaelmnz](https://www.linkedin.com/in/rafaelmnz/)
